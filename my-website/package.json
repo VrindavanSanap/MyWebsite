@@ -1,8 +1,8 @@
 {
   "name": "my-website",
+  "homepage": "my-website-one-mauve.vercel.app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vrindavansanap.github.io/MyWebsite",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
